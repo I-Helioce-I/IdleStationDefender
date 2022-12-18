@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OutdoorsScene.unity
-    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+    path: Assets/Helioce/Scenes/ImportantSceneOnLoad.unity
+    guid: 61ea7d5160793fe4f9a45bd217f12a39
+  - enabled: 1
+    path: Assets/Helioce/Scenes/MainMenu.unity
+    guid: b9c3f5dd0814d5e4daf43c9383175213
+  - enabled: 1
+    path: Assets/Helioce/Scenes/Game.unity
+    guid: a1ede28e519a1c4438db108ead89a551
   m_configObjects: {}
